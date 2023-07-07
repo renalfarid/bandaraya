@@ -82,7 +82,9 @@ body {
     margin-right: 8px;
   }
   .product-card {
-      flex-basis: calc(50% - 20px);
+    margin-left: 8px;
+    margin-right: 8px;
+    flex-basis: calc(50% - 20px);
   }
 }
 
@@ -96,7 +98,9 @@ body {
     margin-right: 8px;
   }
   .product-card {
-      flex-basis: calc(100% - 20px);
+    margin-left: 8px;
+    margin-right: 8px;
+    flex-basis: calc(100% - 20px);
   }
 }
   
