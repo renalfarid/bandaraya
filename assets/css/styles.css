@@ -73,33 +73,13 @@ body {
 }
 
 @media (max-width: 768px) {
-  header {
-    margin-left: 8px;
-    margin-right: 8px;
-  }
-  section {
-    margin-left: 8px;
-    margin-right: 8px;
-  }
   .product-card {
-    margin-left: 8px;
-    margin-right: 8px;
     flex-basis: calc(50% - 20px);
   }
 }
 
 @media (max-width: 576px) {
-  header {
-    margin-left: 8px;
-    margin-right: 8px;
-  }
-  section {
-    margin-left: 8px;
-    margin-right: 8px;
-  }
   .product-card {
-    margin-left: 8px;
-    margin-right: 8px;
     flex-basis: calc(100% - 20px);
   }
 }
