@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-color: #f5f5f5;
+  background-color: #e26a36;
   padding: 20px;
   color: #0c0c0ceb;
   border-radius: 10px;
@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #0c0c0ceb;
+  color: #f5f0f0;
   text-decoration: none;
   padding: 10px;
 }
