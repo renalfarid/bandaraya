@@ -164,7 +164,7 @@ img {
 }
 
 footer {
-  background-color: #e3dcd9;
+  background-color: #e26a36;
   padding: 20px;
   color: #fff;
   border-radius: 10px;
@@ -173,8 +173,9 @@ footer {
   margin-right: 16px;
 }
 
-.footer-content {
+.footer-content p {
   text-align: center;
+  color: #fff;
 }
 
 .whatsapp-float {
