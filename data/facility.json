@@ -1,0 +1,9 @@
+{
+    "facility": [
+        {"id": 1, "title": "Lahan Parkir"},
+        {"id": 2, "title": "Shuttle Bus"},
+        {"id": 3, "title": "Coffee Shop"},
+        {"id": 4, "title": "Lapangan Olahraga"},
+        {"id": 5, "title": "Indoor Gym"}
+    ]
+}
