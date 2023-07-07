@@ -110,14 +110,24 @@ img {
 
 .promotion-container {
   position: relative;
-  height: 0; /* Set initial height to 0 */
-  padding-bottom: 45%; /* Create a responsive square container */
+  height: 0;
+  padding-bottom: 45%;
 }
 
 #promotionImage {
   position: absolute;
   top: 0;
   left: 0;
+  width: 40%; /* Adjust the width as needed */
+  height: 85%;
+  z-index: 1;
+}
+
+#promotionOffer {
+  position: absolute;
+  top: 8%;
+  right: 25%; /* Adjust the right value as needed */
+  width: 30%; /* Adjust the width as needed */
   z-index: 1;
 }
 
@@ -126,6 +136,7 @@ img {
   width: 100%;
 }
 
+
 .facility-container {
   display: flex;
   flex-direction: row;
@@ -133,10 +144,10 @@ img {
 }
 
 .facility-container p {
-  background-color: #333;
+  background-color: #e26a36;
   color: #f5f0f0;
   border-radius: 10px;
-  padding: 10px;
+  padding: 50px;
   margin-right: 50px;
   font-size: 18px;
 }
