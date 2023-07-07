@@ -4,6 +4,7 @@ function loadPromotionData() {
         .then(response => response.json())
         .then(data => {
             console.log("data", data);
+            const promotionSection = document.getElementById('promotion');
             // Get the promotion section and its elements by their IDs
             const promotionBase = document.getElementById('promotionBase');
             const promotionImage = document.getElementById('promotionImage');
