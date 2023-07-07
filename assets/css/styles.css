@@ -74,12 +74,12 @@ body {
 
 @media (max-width: 768px) {
   header {
-    margin-left: 16px;
-    margin-right: 16px;
+    margin-left: 8px;
+    margin-right: 8px;
   }
   section {
-    margin-left: 16px;
-    margin-right: 16px;
+    margin-left: 8px;
+    margin-right: 8px;
   }
   .product-card {
       flex-basis: calc(50% - 20px);
