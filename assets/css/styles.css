@@ -53,6 +53,7 @@ h1 {
 .banner img {
   width: 100%;
   height: auto;
+  border-radius: 10px;
 }
 
 .product-container {
@@ -126,7 +127,6 @@ img {
   max-width: 100%;
   height: auto;
   margin-top: 10px;
-  border-radius: 10px;
 }
 
 footer {
