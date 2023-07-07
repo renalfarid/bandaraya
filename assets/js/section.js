@@ -1,3 +1,4 @@
+function loadSectionData() {
     // Fetch the JSON data from the file
     fetch('../../data/bandaraya.json')
     .then(response => response.json())
@@ -43,3 +44,4 @@
     .catch(error => {
         console.log('Error fetching JSON:', error);
     });
+}
