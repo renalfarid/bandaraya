@@ -1,0 +1,19 @@
+{
+    "apartemen": [
+        {"id": 1},
+        {"name": "Apartemen Tipe Studio"},
+        {"type": "studio"},
+        {"price": 200},
+        {"image": "/assets/images/products/fhd.jpeg"},
+        {"id": 2},
+        {"name": "Apartemen Tipe 2 Bedroom"},
+        {"type": "2 Bedroom"},
+        {"price": 400},
+        {"image": "/assets/images/products/fhd-2.jpeg"},
+        {"id": 2},
+        {"name": "Apartemen Tipe Family"},
+        {"type": "3 Bedroom"},
+        {"price": 600},
+        {"image": "/assets/images/products/fhd-3.jpeg"}
+    ]
+}

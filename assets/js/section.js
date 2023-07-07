@@ -1,5 +1,5 @@
     // Fetch the JSON data from the file
-    fetch('../data/bandaraya.json')
+    fetch('../../data/bandaraya.json')
     .then(response => response.json())
     .then(data => {
         // Get the section data array from the JSON
